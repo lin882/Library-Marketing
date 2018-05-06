@@ -6,7 +6,7 @@
 1. SPSS data file: `PL_data_run.sav`
 2. SPSS code: `01 Recode.sps` `02Label.sps` `03Frequency.sps``04CrossTable.sps` `05ChiSquare.sps`
 3. Result: `Result_CrossTable.xls` `Result_Frequency.xlsx` 
-4. Final Presentation: `Parrish_Presentation.pdf` `ParrishLibrary_posterv3.pdf`
+4. Final Presentation: `Parrish_Presentation.pdf` `ParrishLibrary_posterv3.pdf` `ProjectPaper.pdf` 
 4. Additional material: `Parrish_Questionnaire.pdf` `Parrish_Flyer.pdf` `Code_CrossTableCode_generater.xls`
 
 # Contributor
