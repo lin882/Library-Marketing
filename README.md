@@ -1,6 +1,6 @@
 # Parrish Library Marketing Consulting Project by Krannert Graduate Marketing Association and Purdue Marketing Associaion
 * I led a student consultant team for conducting market research in Parrish Library, Purdue Unversity. We applied SPSS for marketing segmentation analysis.
-* By online survey and Chi-square test, we identified opnions differences among demongraphic groups (gender/undergrad and grad/Krannert and non-Krannert studetn). We successfully mapping out usage patterns for the library to plan for manpower and service.
+* By online survey and Chi-square test, we identified opnions differences among demongraphic groups (gender/undergrad and grad/Krannert and non-Krannert student). We successfully mapping out usage patterns for the library to plan for manpower and service.
 * By focus group interviews, we identified key features for choosing study space and conducted competitive analysis among libraries.
 
 # File
