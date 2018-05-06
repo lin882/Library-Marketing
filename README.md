@@ -1,4 +1,4 @@
-# Parrish Library Marketing Consulting Project by Krannert Graduate Marketing Club
+# Parrish Library Marketing Consulting Project by Krannert Graduate Marketing Association and Purdue Marketing Associaion
 * I led a student consultant team for conducting market research in Parrish Library, Purdue Unversity. We applied SPSS for marketing segmentation analysis.
 * By cross-tables, we identified different usage patterns for the library to improve their service and facility.
 
